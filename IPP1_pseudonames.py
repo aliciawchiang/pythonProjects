@@ -22,7 +22,6 @@ while True:
     try_again = input("\n\nPress Enter to try again! Else n to quit)\n")
     
     if try_again.lower() == "n":
-
         break
     
 input("\nPress Enter to exit.")
